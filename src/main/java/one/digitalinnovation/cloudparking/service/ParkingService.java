@@ -85,10 +85,4 @@ public class ParkingService {
 	
 	}
 	
-	public Parking exit(String id) {
-		//RECUPERAR O ESTACIONADO
-		//ATUALIZAR A DATA DE SAIDA
-		//CALCULAR O VALOR
-		return null;
-	}
 }
